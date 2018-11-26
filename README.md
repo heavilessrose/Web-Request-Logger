@@ -4,7 +4,7 @@ This Simple PHP will sending you a telegram with the exact request
 1. Upload this php to any php server 
 2. Add your Telegram Keys from here https://my.telegram.org/apps
 
-Every time this PHP is call will send you a telegram alert with the request. 
+Every time this PHP is call a telegram alert will send to you a with the requested information. Useful to derect Server Side Request.
 
 Extras:
 ```
