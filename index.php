@@ -54,9 +54,9 @@ $filelocation = "dumprequest" . $date->format('Y-m-d%20H:i:sP') . ".txt";
 
 
 // Telegram Message
-$apiToken = "562275579:AAGtNTte6-AhIKEGcd7VlF4qlLC66detrJo";
+$apiToken = "ADD-YOU-TELEGRAM-KEYS";
 $data = [
-    'chat_id' => '29566595',
+    'chat_id' => 'YOUR-TELEGRAM-ID',
     'parse_mode' => 'Markdown',
     'text' => "*New Request to Request Log*
 The IP: `$remoteIp`
