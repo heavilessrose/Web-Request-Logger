@@ -15,7 +15,7 @@ Censys IP Details
 Robtex IP Details
 Threatminer IP Detail
 
-## OUTPUT
+## Telegram Message send:
 
 New Request to Request Log
 ```
